@@ -47,8 +47,8 @@ public class Main {
 		
 		System.out.println("Elemento do topo: " + stack.peek());
 		System.out.println("Tamanho do stack" + stack.size());
-		System.out.println("Elemento popped: " + stack.pop());
-		System.out.println("Elemento popped: " + stack.pop());
+		System.out.println("Elemento removido do topo: " + stack.pop());
+		System.out.println("Elemento removido do topo: " + stack.pop());
 		System.out.println("Tamanho do stack agora: " + stack.size());
 	}
 }
